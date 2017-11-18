@@ -1,0 +1,6 @@
+FirstnameIDIs ActveLastnamelast_active_datepractice_locationspecialtyuser_type_classification
+0Jeni45YAbdul2017-01-16arleyFamily MedicineLeader
+1Myra100YAdams2017-01-24bessemerOrthopedicsLurker
+2Scott107YAdkins2017-01-31andalusiaUrologyLurker
+3Lakesha132YAbel2017-01-12chickasawCardiologyContributor
+4Brent140YAdame2017-01-14collinsvilleDermatologyContributor

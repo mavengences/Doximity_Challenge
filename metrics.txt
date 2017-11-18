@@ -1,0 +1,10 @@
+script runtime is: 0:26:56.835354
+total number of rows processed is: Firstname                   151677
+ID                          151677
+Is Actve                    151677
+Lastname                    151677
+last_active_date            151677
+practice_location           151677
+specialty                   151677
+user_type_classification    151677
+dtype: int64
